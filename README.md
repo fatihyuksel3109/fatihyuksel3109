@@ -27,10 +27,6 @@
 </p>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=fatihcaliss&theme=flag-india&show_icons=true" >
-</div>
-
-<div align="center">
 
 ![Dino](https://raw.githubusercontent.com/praveenscience/praveenscience/master/dino.gif)
 

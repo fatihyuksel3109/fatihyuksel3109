@@ -1,7 +1,6 @@
 ### Hi, I'm Fatih 👋
 
 - 🔭 I am Frontend Developer.
-- 🌱 I’m currently learning  React.
 - 💬 Ask me anything about IT.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/fatihyuksell/) || fatihyuksel3109@gmail.com
 

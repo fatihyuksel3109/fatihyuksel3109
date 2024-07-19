@@ -23,11 +23,3 @@
   <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
   <a href="https://tailwindcss.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png" alt="tailwindcss" width="40"/> </a>
 </p>
-
-<div align="center">
-
-![Dino](https://raw.githubusercontent.com/praveenscience/praveenscience/master/dino.gif)
-
-</div>
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer"/>

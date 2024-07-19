@@ -54,8 +54,4 @@
   </a>
 </p>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/praveenscience/praveenscience/master/dino.gif" alt="Dino GIF"/>
-</div>
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer"/>

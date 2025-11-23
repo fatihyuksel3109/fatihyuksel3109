@@ -2,7 +2,7 @@
 
 - 🔭 Passionately crafting the future of technology.
 - 💬 Eager for engaging discussions on all things IT.
-- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/fatihyuksell/) or via email at fatihyuksel3109@gmail.com.
+- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/fatihyuksell/) or via email at fatihyukseldev@gmail.com.
 
 ## Languages & Tools 🛠️
 
